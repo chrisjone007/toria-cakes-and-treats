@@ -14,10 +14,10 @@ import {
   PartyPopper,
   MessageCircle,
 } from "lucide-react";
-import meatpieImage from "../assets/images/meatpie.jpeg"
-import smallChopsImage from "../assets/images/small_chops.jpeg"
-import sausagerollImage from "../assets/images/sausage.webp"
-import parfaitImage from "../assets/images/parfait2.jpeg"
+import meatpieImage from "../assets/Images/meatpie.jpeg"
+import smallChopsImage from "../assets/Images/small_chops.jpeg"
+import sausagerollImage from "../assets/Images/sausage.webp"
+import parfaitImage from "../assets/Images/parfait2.jpeg"
 import ProductCard from "../components/ProductCard";
 
 // Homepage-only photographs.
