@@ -16,7 +16,7 @@ import {
 } from "lucide-react";
 import meatpieImage from "../assets/Images/meatpie.jpeg"
 import smallChopsImage from "../assets/Images/small_chops.jpeg"
-import sausagerollImage from "../assets/Images/sausage.webp"
+import sausagerollImage from "../assets/Images/sausage.WEBP"
 import parfaitImage from "../assets/Images/parfait2.jpeg"
 import ProductCard from "../components/ProductCard";
 

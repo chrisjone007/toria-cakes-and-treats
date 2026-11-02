@@ -52,12 +52,12 @@ import parfaitImage from "../assets/Images/parfait.jpeg";
 import zoboImage from "../assets/Images/zobo.jpeg";
 import shawarmaImage from "../assets/Images/shawarma.jpeg"
 import smallChopsTrayImage from "../assets/Images/small_chops_tray.jpeg"
-import chiImage from "../assets/Images/chi.webp";
+import chiImage from "../assets/Images/chi.WEBP";
 import hollandiaImage from "../assets/Images/Hollandia.jpeg";
-import chivitaImage from "../assets/Images/chivita.webp";
+import chivitaImage from "../assets/Images/chivita.WEBP";
 import fantaImage from "../assets/Images/Fanta.jpeg";
 import hollandiaSmallImage from "../assets/Images/Hollandia_small.jpeg";
-import schweppesImage from "../assets/Images/schweppes.png";
+import schweppesImage from "../assets/Images/schweppes.PNG";
 import maltImage from "../assets/Images/malta_guiness.jpeg";
 import cokeImage from "../assets/Images/coke.jpeg";
 import evaImage from "../assets/Images/Eva.jpeg";
