@@ -298,7 +298,7 @@ ${formData.message}
 
     <div className="mt-6 flex justify-center gap-5">
       <a
-        href="#"
+        href="https://www.instagram.com/toriacakesandtreats?obrf=eGVtMHRnOTlwNzA4&utm_source=qr"
         aria-label="Instagram"
         title="Instagram link coming soon"
         className="flex h-12 w-12 items-center justify-center rounded-full bg-white text-[#6D2396] shadow-sm transition hover:-translate-y-1 hover:bg-[#6D2396] hover:text-white"
@@ -306,16 +306,16 @@ ${formData.message}
         <FaInstagram size={23} />
       </a>
 
-      <a
+      {/* <a
         href="#"
         aria-label="Facebook"
         title="Facebook link coming soon"
         className="flex h-12 w-12 items-center justify-center rounded-full bg-white text-[#6D2396] shadow-sm transition hover:-translate-y-1 hover:bg-[#6D2396] hover:text-white"
       >
         <FaFacebookF size={21} />
-      </a>
+      </a> */}
       <a
-  href="#"
+  href="https://www.tiktok.com/@toriacakes?_r=1&_t=ZS-9B0dyp6PTC0"
   aria-label="TikTok"
   title="TikTok link coming soon"
   className="flex h-12 w-12 items-center justify-center rounded-full bg-white text-[#6D2396] shadow-sm transition hover:-translate-y-1 hover:bg-[#6D2396] hover:text-white"

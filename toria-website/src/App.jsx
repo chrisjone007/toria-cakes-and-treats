@@ -1,19 +1,20 @@
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Menu from "./pages/Menu";
 import Cart from "./pages/Cart";
-import { CartProvider } from "./context/CartContext";
 import Contact from "./pages/Contact";
-
-// import Footer from "./components/Footer";
+import { CartProvider } from "./context/CartContext";
 
 function App() {
   return (
     <CartProvider>
       <BrowserRouter>
-            <ScrollToTop />
+        <ScrollToTop />
+
         <div className="min-h-screen flex flex-col">
           <Navbar />
 
@@ -26,7 +27,7 @@ function App() {
             </Routes>
           </main>
 
-          {/* <Footer /> */}
+          <Footer />
         </div>
       </BrowserRouter>
     </CartProvider>
